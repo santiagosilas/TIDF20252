@@ -1,6 +1,4 @@
-Como usar este repositório do Github ?
-
-1. Acesse https://github.com/santiagosilas/TIDF20252
+1. Acesse https://github.com/santiagosilas/TIDF20p252
 2. Ir em Code -> Download ZIP
 3. Descompactar Pasta
 4. Abrir pasta com o Visual Studio Code
